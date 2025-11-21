@@ -12,6 +12,7 @@ public class SampleRestController {
 	{
 		String s1="welcome to springboot jenkins app";
 		return s1;
+		
 	}
 
 }
